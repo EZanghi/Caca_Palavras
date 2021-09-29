@@ -2,7 +2,7 @@
 
 ## O Caça Palavras consiste em um jogo onde o jogador informa até 10 letras e o jogo identifica a palavra com maior pontuação.
 
-###REGRAS DO JOGO:
+### REGRAS DO JOGO:
 	- O valor de cada letra é fixo e informado abaixo.
 	- O banco de palavras também é fixo e informado abaixo. Considere que não existem palavras que não estejam no banco.
 	- O valor da palavra corresponde à soma dos valores de cada letra que a
@@ -16,7 +16,7 @@
 	"​ lado​ " (também 5 pontos) => a palavra “lado” deverá ser escolhida.
 	- Desconsiderar​ acentos e diferenças entre letras maiúsculas e minúsculas.
 
-###Valor das letras:
+### Valor das letras:
 	- 1 ponto: E, A, I, O, N, R, T, L, S, U
 	- 2 pontos: D, G
 	- 3 pontos: B, C, M, P
